@@ -24,8 +24,7 @@ The user can make http requests to the server to get a JSON response of database
 
 ## Application
 
-
-Walkthrough video: 
+walkthrough video: [Untitled_ Jan 11, 2023 8_06 PM.webm](https://user-images.githubusercontent.com/111660791/211973842-7c4fbc70-8a20-44c3-8398-9181dd3e04c4.webm)
 
 
 
